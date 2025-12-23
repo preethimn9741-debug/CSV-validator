@@ -1,0 +1,13 @@
+transaction_id,amount,status,date
+101,500,SUCCESS,2024-01-10
+102,-200,FAILED,2024-01-11
+103,300,SUCCESS ,2024-13-01
+104,400,,2024-01-12
+
+
+
+
+
+
+
+
