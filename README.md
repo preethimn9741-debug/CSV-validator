@@ -37,10 +37,21 @@ It helps ensure CSV data meets expected quality standards before further process
 
 ---
 
-## 📂 Project Structure
-
+## 📂 Project 
+csv_validator/
+│
+├── main.py # CLI entry point
+├── validator.py # Core validation logic
+├── config.py # Validation rules
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+│
+├── data/
+│ └── sample.csv # Sample input CSV file
+│
+└── reports/
+└── errors.csv # Generated validation report
 ---
-
 ## ⚙️ Installation Steps
 
 1. Clone the repository:
