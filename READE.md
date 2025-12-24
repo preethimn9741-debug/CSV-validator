@@ -53,7 +53,7 @@ The validator checks:
 - `status` must be `SUCCESS` or `FAILED`
 - `date` must be present and valid
 - Extra spaces in string fields are removed before validation
-- 
+
 ## How to Run
 
 python validate.py --file input.csv --outdir reports
@@ -72,5 +72,6 @@ row_number,error
 Conclusion
 This project provides a practical CSV validation framework that can be used for learning, testing, and data quality checks.
 It is suitable for backend, data engineering, and interview demonstration purposes.
+
 
 
